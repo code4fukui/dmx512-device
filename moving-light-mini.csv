@@ -3,7 +3,7 @@ ch,min,max,function
 2,0,255,fine pan value (1/100)
 3,0,255,tilt value
 4,0,255,fine tilt value (1/64)
-5,0,255,pan and tilt speed setting (0:fast, 255:slow)
+5,0,255,"pan and tilt speed setting (0:fast, 255:slow)"
 6,0,255,master dimmer 0-100%
 7,0,255,"0: full out, 1-255: strobe mode"
 8,0,255,red dimmer 0-100%
